@@ -1,0 +1,8 @@
+fileignoreconfig:
+- filename: vibe-ui/src/vite-env.d.ts
+  checksum: 63b96d22404bbcfe0a8427f716955759117890d343bbeeff0f3010a8859ae83d
+- filename: vibe-ui/public/vite.svg
+  checksum: 727fda135baa9f359bb99a0573d75855abb10ea83708a8b137e5b5fd0d3454a9
+- filename: vibe-api/Migrations/20241225111203_Initial.cs
+  checksum: 9e3e9ee6b98c3038dff12633ed4cc56de000acec71d999d5c8d58d9f0cb1b9e4
+version: ""
